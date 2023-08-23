@@ -1,0 +1,22 @@
+{
+    "name": "julian/app-salon_php_mvc_js_sass",
+    "description": "php 8, js, sql, sass, gulp",
+    "type": "proyect",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controllers\\": "./controllers",
+            "Model\\": "models",
+            "Classes\\": "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julian Gallardo"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
