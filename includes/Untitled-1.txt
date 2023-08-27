@@ -1,0 +1,5 @@
+host: fra.domcloud.id
+u: kind-percentage-cie
+p: lf+W6j8o-7cTGL8+V6
+
+bd: kind_percentage_cie_db
